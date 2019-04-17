@@ -12,7 +12,7 @@
 % small capitals (\scshape) and left aligned (\raggedright)
 {}{0em}                      % Can be used to give a prefix to all sections, like 'Section ...'
 {}                           % Can be used to insert code before the heading
-[\titlerule]  
+  
 
 \titlespacing{\section}{0pt}{3pt}{3pt}
 \let\oldtitleline\titleline
